@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jokes And Riddles</string>
+    <string name="action_settings">DeleteAll</string>
+    <string name="action_addCategory">Add Category</string>
+    <string name="action_insertJokeOrRiddle">Insert</string>
+    <string name="jokes">Jokes</string>
+    <string name="riddles">Riddles</string>
+    <string name="title_activity_joke_and_riddle">JokeAndRiddle</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="checkBox">Filter</string>
+
+    <!-- Alert Components -->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <!-- Alert Insert Category -->
+    <string name="category_alert_name">Enter name category :</string>
+    <string name="category_alert_description">Enter description :</string>
+
+    <!-- Alert Insert Jokes -->
+    <string name="joke_alert_name">New Joke</string>
+    <string name="tv_statment">Enter the statement:</string>
+    
+    <!-- Alert Insert Riddles -->
+    
+    <string name="riddle_alert_name">New Riddle</string>
+    <string name="tv_question">Enter the question</string>
+    <string name="tv_answer">Enter the answer</string>
+    
+    <!-- Alert delete -->
+    <string name="delete_alert_name">Delete?</string>
+    <string name="tv_string">Are you sure you want to delete </string>
+    
+    <!-- Alert delete -->
+    <string name="update_alert_name">Update?</string>
+    <string name="tv_string_update">Are you sure you want to update </string>
+    
+    
+</resources>

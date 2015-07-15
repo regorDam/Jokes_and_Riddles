@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="dam.m06.jokes_and_riddles.JokeAndRiddle" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/action_addCategory"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        android:title="@string/action_addCategory"/>
+    <item 
+        android:id="@+id/action_insert"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:title="@string/action_insertJokeOrRiddle"
+        
+        />
+
+</menu>
